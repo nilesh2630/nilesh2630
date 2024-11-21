@@ -38,10 +38,11 @@ I love building innovative projects, solving problems, and learning new technolo
 ### GitHub Stats:  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilesh2630&show_icons=true&theme=radical" alt="Nilesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilesh2630&show_icons=true&theme=radical" alt="Nilesh's GitHub Stats" style="width:80%; max-width:1000px; height:auto;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh2630&layout=compact&theme=radical" alt="Top Languages Used by Nilesh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh2630&layout=compact&theme=radical" alt="Top Languages Used by Nilesh" style="width:80%; max-width:1000px; height:auto;" />
 </p>
+
 
