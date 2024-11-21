@@ -1,6 +1,10 @@
 <div align="center">
- <img src="https://cdn.pixabay.com/photo/2017/08/30/07/44/web-design-2696774_960_720.jpg" alt="Welcome to Nilesh's GitHub" width="100%">
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" alt="Coding Penguin" width="100%">
 </div>
+
+<p align="center">
+  <a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA">via GIPHY</a>
+</p>
 
 # Hi 👋, I'm Nilesh Gupta  
 A passionate **MERN stack developer** and **Java enthusiast** from India.  
