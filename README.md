@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" alt="Coding Penguin" style="width:100%; height:300px; object-fit:cover;">
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" alt="Coding Penguin" style="width:1200px; height:250px; object-fit:cover;">
 </div>
 
 
